@@ -2,6 +2,8 @@ package com.gildedrose;
 
 import static org.junit.Assert.*;
 
+//import org.junit.Test;
+
 import org.junit.Test;
 
 public class GildedRoseTest {
@@ -13,5 +15,6 @@ public class GildedRoseTest {
         app.updateQuality();
         assertEquals("fixme", app.items[0].name);
     }
+
 
 }
