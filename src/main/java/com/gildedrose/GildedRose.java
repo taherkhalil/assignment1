@@ -1,4 +1,6 @@
 package com.gildedrose;
+//
+//try to change and commit
 
 class GildedRose {
     Item[] items;
